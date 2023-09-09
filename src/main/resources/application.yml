@@ -19,9 +19,9 @@ spring:
     test-connection: false
 
   datasource:
-    url: jdbc:mysql://localhost:3306/chat
-    username: usman
-    password: uusmann3344
+    url: jdbc:mysql://root:uVaHcUA83cKoFZRuh21M@containers-us-west-94.railway.app:5471/railway
+    username: root
+    password: uVaHcUA83cKoFZRuh21M
 
   jpa:
     hibernate:
