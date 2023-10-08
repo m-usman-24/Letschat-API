@@ -1,4 +1,4 @@
-##Letschat API
+Letschat API
 Letschat API is a real-time chatting API built upon Websocket and STOMP using a simple message broker provided by Spring. It's designed to provide a robust and efficient solution for real-time communication needs.
 
 Features
